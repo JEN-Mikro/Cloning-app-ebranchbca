@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023349103151",
+    "project_id": "ebranch-bca-10ccf",
+    "storage_bucket": "ebranch-bca-10ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023349103151:android:b738e110a25dea8d52c4da",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZ3zX4SdUxk51U2IQMKKxHZ_ukzGPQLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
